@@ -1,6 +1,6 @@
 const resumeData =[
     {
-        "skillmessage": " This is my core skill that I have learnt for 2 years. A self-taught Software Developer ",
+        "skillmessage": " Experienced Web Developer is skilled in .NET Framework, C#, MSSQL, Asp.Net,React.js, javascript, Nodejs, and Object-Oriented Programming (OOP). I’m also familiar with the Agile Method, Git, Docker, Stack-overflow, and Trello.Strong engineering professional graduated in CSE with deep interest in javascript,React & ASP.Ne.t",
        
         
         "skills": [
@@ -13,12 +13,12 @@ const resumeData =[
               "level": "75%"
             },
             {
-              "name": "Python | Django",
-              "level": "75%"
+              "name": "C# | ASP.Net",
+              "level": "80%"
             },
             {
-              "name": "MySQL | postgreSQL",
-              "level": "60%"
+              "name": "MSSQL | MYSQL",
+              "level": "90%"
             },
             {
               "name": "HTML | CSS | Bootstrap4 | React-Bootstrap | Material-ui",

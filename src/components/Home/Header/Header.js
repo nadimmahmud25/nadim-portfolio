@@ -35,7 +35,7 @@ const Header = () => {
                              </span>
                         </h1>
                         <div className="status"><ul> <li> Web Developer</li> <li> Crazy React & ASP.Net Lover </li></ul></div>
-                        <h3><span> React || ASP.Net Developer && Web Developer.</span> A self-taught software developer with deep interest in javascript,React & ASP.Net.  </h3>
+                        <h3><span> React || ASP.Net Developer && Web Developer.</span> Strong engineering professional graduated in CSE with deep interest in javascript,React & ASP.Net.  </h3>
                         
                         <div className="social">
                             <a href="https://github.com/nadimmahmud25"> <GitHubIcon/> </a>
