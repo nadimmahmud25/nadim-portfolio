@@ -1,8 +1,8 @@
 import React from 'react';
-import './Resume.css';
+import './Skrill.css';
 import resumeData from '../../../fakeData/resumeData'
 
-const Resume = () => {
+const Skrill = () => {
     const resume = resumeData[0]
     const skillmessage = resume.skillmessage;
 
@@ -40,4 +40,4 @@ const Resume = () => {
     );
 };
 
-export default Resume;
+export default Skrill;

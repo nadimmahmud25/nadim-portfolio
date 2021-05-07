@@ -39,7 +39,7 @@ const resumeData =[
                   "sign in and sign up with email and google by firebase. ", 
                   "payment process with stripe or PayPal." 
               ],
-              "image": "air-cnc.png",
+              "image":"air-cnc.png",
               "url": "https://air-cnc-my.web.app/",
               "github": "https://github.com/nadimmahmud25/air-cnc-client"
               

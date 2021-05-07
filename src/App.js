@@ -8,9 +8,9 @@ import {
 } from "react-router-dom";
 import Home from './components/Home/Home/Home';
 import About from './components/About/About';
-import Work from './components/Work/Work';
 import ContactPage from './components/ContactPage/ContactPage';
 import BlogPage from './components/BlogPage/BlogPage';
+import Projects from './components/Projects/Projects';
 
 function App() {
   return (
@@ -25,7 +25,7 @@ function App() {
           </Route>
 
           <Route path="/work">
-            <Work/>
+            <Projects/>
           </Route>
 
           <Route path="/contact">
